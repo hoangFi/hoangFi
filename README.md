@@ -41,8 +41,9 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
 
 ### 🧰 Tech I work with
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,luau-lang,python,cpp,figma,git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,python,cpp,figma,git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="48" height="48" />
 </p>
 
 ---
