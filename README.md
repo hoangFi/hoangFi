@@ -1,6 +1,5 @@
 <p align="center">
   <img src="banner_typing.gif" alt="Phi Nguyen" width="100%" />
-  <img src="wave.gif" width="34" align="center" />
 </p>
 
 <p align="center">
