@@ -42,7 +42,7 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
 ### 🧰 Tech I work with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,luau,python,cpp,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,nodejs,luau-lang,python,cpp,figma,git" />
 </p>
 
 ---
