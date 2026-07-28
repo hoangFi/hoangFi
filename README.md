@@ -62,10 +62,6 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
   <a href="mailto:hoangphipay@gmail.com">
     <img src="https://img.shields.io/badge/Email-hoangphipay@gmail.com-D9A441?style=flat-square&logo=gmail&logoColor=white&labelColor=2B2016" />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A5A1C?style=flat-square&logo=linkedin&logoColor=white&labelColor=2B2016" />
-  </a>
 </p>
 
 <p align="center"><sub>⚙️ Built with gears, steam, and a lot of coffee.</sub></p>
