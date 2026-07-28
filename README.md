@@ -10,7 +10,7 @@
 
 ---
 
-### ⚙️ About me &nbsp;<img src="wave.jpg" width="34" align="center" />
+### ⚙️ About me &nbsp;<img src="wave.gif" width="34" align="center" />
 
 - Information Technology undergraduate at **HCMUS — Ho Chi Minh University of Science** (Faculty of IT), since **2024** — now in my **2nd year**
 - I build across the stack — web front-ends, back-ends, and the glue in between
