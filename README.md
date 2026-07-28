@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner_typing.gif" alt="Phi Nguyen" width="100%" />
+  <img src="banner_typing.gif" alt="Phi Nguyen" width="100%" />
 </p>
 
 ### 🏆 Top 5 — Agentic AI Build Week 2026
