@@ -48,15 +48,6 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangFi&show_icons=true&hide_border=true&title_color=D9A441&icon_color=D9A441&text_color=C9C4B8&bg_color=17130D" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangFi&layout=compact&hide_border=true&title_color=D9A441&text_color=C9C4B8&bg_color=17130D" />
-</p>
-
----
-
 ### 📫 Reach me
 
 <p align="center">
