@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner_typing.gif" alt="Phi Nguyen" width="100%" />
+  <img src="banner_decode.gif" alt="Phi Nguyen" width="100%" />
 </p>
 
 <p align="center">
