@@ -56,4 +56,4 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
   </a>
 </p>
 
-<p align="center"><sub>⚙️ Built with gears, steam, and a lot of coffee.</sub></p>
+<p align="center"><sub>I really love coffee.</sub></p>
