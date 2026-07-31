@@ -3,6 +3,16 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hoangFi&style=for-the-badge&color=D9A441&label=PROFILE+VIEWS" />
+  &nbsp;
+  <a href="https://github.com/hoangFi?tab=followers">
+    <img src="https://img.shields.io/github/followers/hoangFi?style=for-the-badge&color=8A5A1C&labelColor=2B2016&label=FOLLOW" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/hoangFi?style=for-the-badge&color=B8873F&labelColor=2B2016&label=STARS" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Junior%20Dev%20Roles-D9A441?style=for-the-badge&labelColor=2B2016" />
   &nbsp;
   <img src="https://img.shields.io/badge/Based%20in-Ho%20Chi%20Minh%20City-8A5A1C?style=for-the-badge&labelColor=2B2016" />
@@ -24,7 +34,7 @@
 | When | What |
 |------|------|
 | **2nd year · 2026** | **Top 5 — Agentic AI Build Week** — Southeast Asia's largest on-site AI buildathon (2,000+ builders, GenAI Fund) — with **AeroTwin AI** |
-| **1st year** | Built **GoldenVista** — a production website for a tax &amp; accounting company (corporate project) https://goldenvista.vn/ |
+| **1st year** | Built **[GoldenVista](https://goldenvista.vn/)** — a production website for a tax &amp; accounting company (corporate project) |
 
 ---
 
@@ -34,7 +44,7 @@
 Live flight map, relational risk board, and an agentic chat interface for dispatchers.
 `React` · `TypeScript` · `Tailwind` · `Vite` — **Top 5 @ Agentic AI Build Week 2026**
 
-**GoldenVista** — production website for a tax &amp; accounting firm serving household businesses.
+**[GoldenVista](https://goldenvista.vn/)** — production website for a tax &amp; accounting firm serving household businesses.
 `Front-end` · `Content` · real client, real deadline.
 
 ---
@@ -47,6 +57,7 @@ Live flight map, relational risk board, and an agentic chat interface for dispat
 </p>
 
 ---
+
 
 ### Reach me
 
