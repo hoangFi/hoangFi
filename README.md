@@ -33,7 +33,7 @@
 
 | When | What |
 |------|------|
-| **2nd year · 2026** | **Top 5 — Agentic AI Build Week** — Southeast Asia's largest on-site AI buildathon (2,000+ builders, GenAI Fund) — with **AeroTwin AI** |
+| **2nd year · 2026** | **Top 5 — Agentic AI Build Week** — Southeast Asia's largest on-site AI buildathon (2,000+ builders, GenAI Fund) — with **AeroTwin AI** https://github.com/docvoxx/HackOnTeam-AeroTwinAI|
 | **1st year** | Built **[GoldenVista](https://goldenvista.vn/)** — a production website for a tax &amp; accounting company (corporate project) |
 
 ---
