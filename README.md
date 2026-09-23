@@ -2,7 +2,7 @@
 
 IT undergraduate at **HCMUS** (3nd year) · Ho Chi Minh City · Open to **internships & junior dev roles**
 
-I build full-stack web products and I'm into **agentic AI**. Always learning.
+I build full-stack web products and I'm into **agentic AI**.
 
 ### 🔨 Currently building
 
